@@ -7,16 +7,21 @@
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "^0.9.1",
-    "connect": "^2.14.4",
+    "connect": "2.X.X",
     "connect-livereload": "^0.4.0",
     "gulp": "^3.6.0",
+    "gulp-util": "^3.0.7",
     "gulp-autoprefixer": "^0.0.7",
     "gulp-jshint": "^1.6.1",
     "gulp-livereload": "^1.2.0",
     "gulp-load-plugins": "^0.5.0",
     "gulp-notify": "^1.2.6",
+    "node-notifier":"^4.6.1",
+    "gulp-changed":"^1.3.2",
+    "gulp-less":"^3.3.0",
     "gulp-sass": "^2.3.2",
     "gulp-size": "^0.3.1",
+    "gulp-sourcemaps": "^1.9.0",
     "jshint-stylish": "^0.2.0",
     "opn": "^0.1.1"
   }
